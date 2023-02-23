@@ -1,0 +1,15 @@
+.App {
+  color: aliceblue;
+  text-align: center;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJmR8LF39ptV7-8XwO-3fw1VV0iU0cXa46-A&usqp=CAU");
+position: fixed;
+
+
+}
+.user{
+  float: left;
+  padding: 2%;
+margin: 2%;
+  }
+  
+  
